@@ -25,12 +25,8 @@ The goal was to practice data cleaning, analysis, and visualization by transform
 ---
  📊 Key Outcome
 The final deliverable is an interactive Excel dashboard that allows users to filter and explore bike sales performance efficiently, supporting basic business analysis and decision-making.
+This project was completed as a hands=on leanring exercise  to a strengthen pratical EXcel and data anlaysis skills and showcase the some of the foundational Excel skill that I've learned on my own
 
 ---
-
-📁 Files
-- `Bike_Sales_Dashboard.xlsx` – Cleaned data, pivot tables, charts, and dashboard  
-
-
-This project was completed as a hands-on learning exercise to strengthen practical Excel and data analysis skills.
+ 
 
